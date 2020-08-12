@@ -1,2 +1,14 @@
 # Iris-EDA
-Iris EDA notebook and dataset
+
+## Project Goal:
+
+---
+
+## Iris Data:
+
+---
+
+## Development:
+### EDA (Jupyter):
+
+### ML-Classification (Jupyter):
