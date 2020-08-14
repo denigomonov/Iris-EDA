@@ -12,5 +12,7 @@ I have downloaded [Iris Species](https://www.kaggle.com/uciml/notebook) dataset 
 
 ## Development:
 ### EDA (Jupyter):
-
-### ML-Classification (Jupyter):
+- Creating individual and a combination of multiple custom _Scatter_ plots to showcase clusters of Sepal and Petal measurements 
+- Creating _Coordinates_ plot to demonstrate new way of looking at the distribution of measurements for each point passing established ranged windows
+- Transforming data, establishing 25%-75% IQR ranges and determining normal & outlier observations via _Categorical Coordiantes_ plot
+- Determining best features, number of nearest neighbors and boundary points for ML KNN-Classification and 2D representation (taking overfitting and underfitting results into the account)
