@@ -16,3 +16,5 @@ I have downloaded [Iris Species](https://www.kaggle.com/uciml/notebook) dataset 
 - Creating _Coordinates_ plot to demonstrate new way of looking at the distribution of measurements for each point passing established ranged windows
 - Transforming data, establishing 25%-75% IQR ranges and determining normal & outlier observations via _Categorical Coordiantes_ plot
 - Determining best features, number of nearest neighbors and boundary points for ML KNN-Classification and 2D representation (taking overfitting and underfitting results into the account)
+
+<img src="https://user-images.githubusercontent.com/34199193/89725192-f1243000-d9da-11ea-913b-3dd6b3f2c8e9.gif" width="600" >
